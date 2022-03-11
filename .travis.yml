@@ -1,4 +1,4 @@
 language: java
 dist: bionic
 jdk:
-  - corretto11
+  - openjdk11
